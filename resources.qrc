@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/VectorTextFieldStatistics" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>

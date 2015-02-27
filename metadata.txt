@@ -1,0 +1,36 @@
+# This file contains metadata for your plugin. Since 
+# version 2.0 of QGIS this is the proper way to supply 
+# information about a plugin. The old method of 
+# embedding metadata in __init__.py will 
+# is no longer supported since version 2.0.
+
+# This file should be included when you package your plugin.# Mandatory items:
+
+[general]
+name=Vector Text Field Statistics
+qgisMinimumVersion=2.0
+description=I wrote this plugin to help with "wide, sparse" tables, such as imports from OpenStreetMap and NaturalEarth. For a selected vector layer, it finds discrete values for each text field together with the number of features. This can be useful in assessing data quality, and for deciding how to set up styling rules. 
+version=0.1
+author=Steven Kay/geogeo
+email=steven@geogeoglobal.com
+
+# End of mandatory metadata
+
+# Optional items:
+
+# Uncomment the following line and add your changelog:
+# changelog=
+
+# Tags are comma separated with spaces allowed
+tags=vector,text,field,statistics,openstreetmap,stats
+
+homepage=
+tracker=
+repository=
+icon=icon.png
+# experimental flag
+experimental=True
+
+# deprecated flag (applies to the whole plugin, not just a single version)
+deprecated=False
+
