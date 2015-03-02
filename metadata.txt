@@ -24,8 +24,8 @@ email=steven@geogeoglobal.com
 # Tags are comma separated with spaces allowed
 tags=vector,text,field,statistics,stats
 
-homepage=
-tracker=
+homepage=https://github.com/GeoGeo/VectorTextFieldStatistics
+tracker=https://github.com/GeoGeo/VectorTextFieldStatistics/issues
 repository=https://github.com/GeoGeo/VectorTextFieldStatistics
 icon=icon.png
 # experimental flag
