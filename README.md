@@ -1,6 +1,6 @@
 # VectorTextFieldStatistics
 
-#The aim of this plugin is to help visualise the contents of text fields in Vector layers.
+*The aim of this plugin is to help visualise the contents of text fields in Vector layers.*
 
 I wrote this originally to help me visualise the wide, sparse text tables which are typical of OpenStreetMap data brought in via osm2pgsql. Such tables have dozens of fields, most of which are null for most records.
 
