@@ -274,11 +274,7 @@
       </rect>
      </property>
      <property name="text">
-      <string>This plugin shows statistics for text fields in vector layers. It counts the number of discrete values in each text column, and should work with any vector data source. 
-
-I wrote this to help with &quot;wide tables&quot; such as those from OpenStreetMap and NaturalEarth. 
-
-These tables tend to have dozens of columns, and it can be useful to know how many distinct values are available in each column, when planning mapping or assessing data quality.</string>
+      <string>This plugin finds all text fields in a vector layer, identifies discrete values in each field, together with how many features have each value.</string>
      </property>
      <property name="alignment">
       <set>Qt::AlignLeading|Qt::AlignLeft|Qt::AlignTop</set>

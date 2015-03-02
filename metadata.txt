@@ -9,9 +9,9 @@
 [general]
 name=Vector Text Field Statistics
 qgisMinimumVersion=2.0
-description=I wrote this plugin to help with "wide, sparse" tables, such as imports from OpenStreetMap and NaturalEarth. For a selected vector layer, it finds discrete values for each text field together with the number of features. This can be useful in assessing data quality, and for deciding how to set up styling rules. 
+description=This plugin finds all text fields in a vector layer, identifies discrete values in each field, together with how many features have each value.  
 version=0.1
-author=Steven Kay/geogeo
+author=Steven Kay
 email=steven@geogeoglobal.com
 
 # End of mandatory metadata
@@ -22,7 +22,7 @@ email=steven@geogeoglobal.com
 # changelog=
 
 # Tags are comma separated with spaces allowed
-tags=vector,text,field,statistics,openstreetmap,stats
+tags=vector,text,field,statistics,stats
 
 homepage=
 tracker=
