@@ -8,7 +8,7 @@ When planning mapping, it can be useful to know the discrete values for each fie
 
 When you choose from the list of Vector layers, the features in that layer and scanned and a list of text fields is shown below.
 
-![screenshot]("https://farm9.staticflickr.com/8616/16693058862_a012b09791_h_d.jpg" "Screenshot")
+![screenshot](https://farm9.staticflickr.com/8616/16693058862_a012b09791_h_d.jpg "Screenshot")
 
 The colour of the field name gives a clue to its type. This can be useful when examining an unfamiliar data source
 
